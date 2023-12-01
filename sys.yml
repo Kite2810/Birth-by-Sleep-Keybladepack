@@ -1,0 +1,620 @@
+- id: 0x05C2
+  en: Wayward Wind
+  sp: Brisa descarada
+  fr: Brise légère
+  gr: Launischer Wind
+  it: Evocavento
+- id: 0x05C3
+  en: The Keyblade you started out with. What it lacks in
+
+      reach it makes up for with a slight boost in
+
+      Strength.
+  sp: De corto alcance pero con gran potencia de
+
+      impacto, es ideal para principiantes.
+  fr: Keyblade avec laquelle vous avez commencé. 
+
+      Afin de compenser sa faible portée, elle
+
+      vous procure un léger bonus de Force.
+  gr: Dein erstes Schlüsselschwert.
+
+      Es hat eine geringe Reichweite, aber
+
+      einen relativ hohen Attackewert.
+  it: Keyblade leggermente potente dal raggio d'attacco
+
+      limitato.
+- id: 0x3E4C
+  en: Void Gear
+  sp: Quid vacuo
+  fr: Clavis vacuum
+  gr: Clavis Vanitatum
+  it: Chiave Vanitas
+- id: 0x3E4D
+  en: A Keyblade with a long reach that provides an
+
+      outstanding boost in Strength and deals highter
+
+      damage when you land a critical hit.
+  sp: De largo alcance y extraordinario poder de ataque,
+
+      cuando esta llave espada asesta golpes letales no
+
+      hay quien los resista.
+  fr: Keyblade à longue portée qui vous procure un bonus
+
+      de Force incroyable et inflige des dégâts
+
+      dévastateurs si vous assénez un coup critique avec.
+  gr: Ein Schlüsselschwert mit hoher Reichweite, außer-
+
+      gewöhnlich hohem Attackewert und hohen Schaden
+
+      bei kritischen Treffern.
+  it: Keyblade dal raggio d'attacco molto ampio e dal
+
+      potere d'attacco eccezionale. Ifligge ingenti
+
+      danni quando effettua colpi critici.
+- id: 0x3E38
+  en: Victory Line
+  sp: Línea de meta
+  fr: Ligne d'arrivée
+  gr: Freudenjubel
+  it: Trionfante
+- id: 0x3E39
+  en: A Keyblade with above-average reach that makes it
+
+      easier to land critical hits.
+  sp: Su largo alcance aumenta la posibilidad de asestar
+
+      un mayor número de golpes letales.
+  fr: Keyblade à moyenne portée qui permet d'asséner des
+
+      coups critiques plus facilement.
+  gr: Ein Schlüsselschwert mit relativ hoher Reichweite,
+
+      das kritische Treffer häufiger ermöglicht.
+  it: Keyblade che sferra spesso attacchi critici e
+
+      dall'ampio raggio d'attacco.
+- id: 0x3E4E
+  en: Ultima Weapon
+  sp: Arme Artema
+  fr: Arme Ultima
+  gr: Ultima-Schwert
+  it: Ultima Weapon
+- id: 0x3E4F
+  en: The most powerful of Keyblades.
+  sp: La llave más poderosa de todas.
+  fr: Keyblade qui améliore toutes vos statistques
+      
+      et permet d'asséner des coups critiques
+      
+      dévastateurs plus facilement.
+  gr: Vereint alle denkbaren Kräfte.
+  it: Permette di equipaggiarti con un Keyblade.
+- id: 0x3DFC
+  en: Treasure Trove
+  sp: Tesoro oculto
+  fr: Mine de joyaux
+  gr: Schatzsucher
+  it: Setteminiere
+- id: 0x3DFD
+  en: A Keyblade that makes up for its poor reach
+
+      with a balanced boost in Strengh and Magic.
+  sp: Aunque posee un buen equilibrio en cuanto 
+      
+      a fuerza y magia, su alcance es limitado.
+  fr: Keyblade qui compense sa faible portée en vous 
+
+      procurant un bonus équilibré de Force et de Magie.
+  gr: Ein ausbalanciertes Schlüsselschwert 
+
+      mit kurzer Reichweite.
+  it: Keyblade dal potere magico e di attacco 
+
+      molto bilanciati. Il raggio d'attacco é limitato.
+- id: 0x3E34
+  en: Sweetstack
+  sp: Dulce sorpresa
+  fr: Gourmandises
+  gr: Süßer Traum
+  it: Ghiottona
+- id: 0x3E35
+  en: A Keyblade that provides an extra boost in Strength
+
+      and ensures every strike is a critical hit.
+  sp: Además de poseer una increíble fuerza, este
+    
+      paradigma de la buena fortuna siempre
+
+      asesta golpes letales.
+  fr: Keyblade qui vous procure un bonus de Foorce
+
+      important et asséne des coups critiques à
+
+      chaque frappe.
+  gr: Ein Schlüsselschwert mit geringer Reichweite, aber
+
+      hohem Attackewert und einhundert Prozent krit-
+
+      ischen Treffern. Ein echtes Glückschwert!
+  it: Keyblade potente e fortunato che sferra solo
+
+      attacchi critici.
+- id: 0x3E30
+  en: Stroke of Midnight
+  sp: Último tañido
+  fr: Coup de minuit
+  gr: Punkt Mitternacht
+  it: Cristallina
+- id: 0x3E31
+  en: A Keyblade that makes it easier to land
+
+      critical hits.
+  sp: Si te gusta asestar golpes letales, 
+
+      sin duda esta es tu llave espada.
+  fr: Keyblade qui permet d'asséner des
+
+      coups critiques plus facilement.
+  gr: Dieses Schlüsselschwert ermöglicht
+
+      kritische Treffer häufiger.
+  it: Keyblade che sferra spesso attacchi critici.
+- id: 0x3E3E
+  en: Stormfall
+  sp: Argavieso
+  fr: Tourmente
+  gr: Regensturm
+  it: Diluvio
+- id: 0x3E3F
+  en: A well-balanced Keyblade that provides an extra
+
+      boost to all your stats.
+  sp: Llave espada con sobresalientes cualidades en
+
+      todos los aspectos.
+  fr: Keyblade bien équilibrée qui augmente grandement
+
+      toutes vos statistiques.
+  gr: Ein sehr ausgeglichenes Schlüsselschwert mit
+
+      allgemein hohen Werten.
+  it: Keyblade ben bilanciato che gode di tutte le
+
+      migliori condizioni.
+- id: 0x3E40
+  en: Royal Radiance
+  sp: Corona eterna
+  fr: Couronne absolue
+  gr: Königsglanz
+  it: Splendore reale
+- id: 0x3E41
+  en: The most powerful of Keyblades. When equipped,
+
+      it increases the speed at which the command
+
+      gauge fills.
+  sp: La llave espada más poderosa de todas Hace que el
+
+      indicador de comandos se llene más rápido.
+  fr: Keyblade la plus puissante. Grâce à elle, la jauge
+
+      de commandes se remplit plus vite.
+  gr: Das stärkste aller Schlüsselschwerter.
+
+      Bei Ausrüsten füllt sich die Kommandoleiste
+
+      schneller.
+  it: Il Keyblade più potente. Aumenta la velocità alla
+
+      quale si riempe la barra dei comandi.
+- id: 0x3E44
+  en: Rainfell
+  sp: Aguacero
+  fr: Larme de pluie
+  gr: Regenfall
+  it: Nubifragio
+- id: 0x3E45
+  en: The Keyblade you started out with. What it lacks
+
+      in reach it makes up for with a balanced boost
+
+      in Strength and Magic.
+  sp: Aunque posee un buen equilibrio en cuanto a fuerza
+
+      y magia, su alcance es limitado. Ideal para
+
+      principiantes.
+  fr: Keyblade avec laquelle vous avez commencé. Afin de
+
+      compenser sa faible portée, elle vous procure un
+
+      bonus équilibre de Force et de Magie.
+  gr: Dein erstes Schlüsselschwert. Es hat eine geringe
+
+      Reichweite, aber ausgeglichene Attacke- und
+
+      Magiewerte.
+  it: Keyblade dal potere d'attacco e magico ben
+
+      bilanciati. Raggio d'attacco limitato.
+- id: 0x3E36
+  en: Pixie Petal
+  sp: Pétalo de hada
+  fr: Rameau de fée
+  gr: Feenblüte
+  it: Fiordifati
+- id: 0x3E37
+  en: A Keyblade that makes up for it´s poor reach with
+
+      an extra boost in Magic. It also makes it easier
+
+      to land critical hits, and deals highter damage
+
+      when you do.
+  sp: sta llave espada suple su corto alcance con
+
+      magníficas características mágicas. Asesta
+
+      golpes letales aún más poderosos.
+  fr: Keyblade qui compense sa faible portée en vous
+
+      procurant un bonus de Magie important et permet
+
+      d'asséner des coups critiques dévastateurs plus
+
+      facilement.
+  gr: Ein Schlüsselschwert mit geringer Reichweite, aber
+
+      hohem Magiewert. Es ermöglicht häufiger kritische
+
+      Treffer mit hohem Schaden.
+  it: Keyblade dal potere magico elevato e dal raggio
+
+      d'attacco limitato. Sferra spesso attacchi
+
+      critici che infliggono ingenti danni.
+- id: 0x4E37
+  en: No Name
+  sp: Innómita
+  fr: Innommée
+  gr: Namenlose Klinge
+  it: Innominata
+- id: 0x4E38
+  en: A Keyblade with long reach that provides an
+
+      outstanding boost in Magic and makes it
+
+      easier to land critical hits.
+  sp: De largo alcance y extraordinario poder mágico,
+
+      esta llave espada es propensa a asestar golpes
+
+      letales con facilidad.
+  fr: Keyblade à longue portée qui vous procure un
+
+      bonus de Magie incroyable et permet d'asséner
+
+      des coups critiques plus facilement.
+  gr: Ein Schlüsselschwert mit hoher Reichweite und
+
+      außergewöhnlich hohem Magiewert, das kritische
+
+      Treffer häufiger ermöglicht.
+  it: Keyblade dal raggio d'attacco molto ampio e dal
+
+      potere magico eccezionale. Sferra spesso
+
+      attacchi critici.
+- id: 0x4E35
+  en: Master´s Defender
+  sp: Salva del Maestro
+  fr: Garde du Maître
+  gr: Meisterhüter
+  it: Tutore del Maestro
+- id: 0x4E36
+  en: The Keyblade belonging to Master Eraqus.
+
+      It boosts all your stats.
+  sp: Llave espada del maestro Eraqus. Sus cualidades
+
+      destacan en todos los aspectos del combate.
+  fr: Keyblade de Maître Eraqus.
+
+      Elle améliore toutes vos statitiques.
+  gr: Meister Eraqus' Schlüsselschwert.
+
+      Es besitzt allgemein hohe Werte.
+  it: Un Keyblade di proprietà del Maestro Eraqus.
+
+      Ha statistiche incredibilmente alte.
+- id: 0x3E2E
+  en: Mark of a Hero
+  sp: Galón de héroe
+  fr: Symbole de héros
+  gr: Heldenemblem
+  it: Eroica
+- id: 0x3E2F
+  en: A Keyblade that provides an extra boost in 
+
+      Strengh and deals highter damage when you
+  
+      land a critical hit.
+  sp: La gran potencia de esta illave espanda
+ 
+      permite infligir aún más daños al asestar
+ 
+      golpes letales.
+  fr: Keyblade qui vous procure un bonus de Force
+
+      important et inflige des dégâts plus lourds
+
+      si vous assénez un coup critique avec.
+  gr: Ein Schlüsselschwert mit hohem Attackewert und
+      
+      hohem Schaden bei kritischen Treffern.
+  it: Keyblade dall'ampio raggio d'attacco che iffligge
+      
+      ingenti danni quando sferra attacci critici.
+- id: 0x05C6
+  en: Lost Memory
+  sp: Evocación
+  fr: Souvenir perdu
+  gr: Verlorene Erinnerung
+  it: Ricordi perduti
+- id: 0x05C7
+  en: A Keyblade with long reach that makes it easier to
+
+      land critical hits, and deals highter damage when
+
+      you do.
+  sp: Esta llave espada de gran alcance aumenta la
+
+      posibilidad de asestar golpes letales que
+
+      infligen grandes dañosal enemigo.
+  fr: Keyblade à longue portée qui permet d'asséner des
+
+      coups critiques dévastateurs plus facilement.
+  gr: Ein Schlüsselschwert mit hoher Reichweite, das
+
+      häufiger kritische Treffer mit hohem Schaden
+
+      ermöglicht.
+  it: Keyblade dal raggio d'attacco ampio che infligge
+
+      ingenti danni quando sferra attacchi critici.
+- id: 0x05C4
+  en: Hyperdrive
+  sp: Hiperpropulsor
+  fr: Vol en hyperespace
+  gr: Hyperantrieb
+  it: Iperenergica
+- id: 0x05C5
+  en: A Keyblade with above-average reach that
+
+      provides a balanced boost in Strengh and
+   
+      Magic.
+  sp: Llave espada de gran alcance y buen equilibro
+
+      entre fuerza y magia.
+  fr: Keyblade à moyenne portée qui vous procure un
+
+      bonus équilibré de Force et de Magie.
+  gr: Ein Schlüsselschwert mit relativ hoher
+
+      Reichweite und ausgeglichenen Attacke-
+    
+      und Magiewerten.
+  it: Keyblade dal potere magico e di attacco
+
+      molto bilanciati. Il raggio d'attacco é
+   
+      ampio.
+- id: 0x3E4A
+  en: Frolic Flame
+  sp: Llama crepitante
+  fr: Flamme ardente
+  gr: Flammende Flausen
+  it: Fiammeggiante
+- id: 0x3E4B
+  en: A well-balanced Keyblade that provides an extra
+
+      boost to all your stats.
+  sp: Llave espada con sobresalientes cualidades en
+
+      todos los aspectos.
+  fr: Keyblade bien équilibrée qui augmente grandement
+
+      toutes vos statistiques.
+  gr: Ein Schlüsselschwert mit ausgeglichenen Attacke-
+
+      und Magiewerten und hoher Reichweite.
+  it: Keyblade dal potere magico e di attacco bilanciati.
+
+      Gode di un buon raggio d'attacco.
+- id: 0x3E32
+  en: Fairy Stars
+  sp: Lucero feérico
+  fr: Astres féeriques
+  gr: Feengestirn
+  it: Astrofatato
+- id: 0x3E33
+  en: A Keyblade that provides a balanced boost
+
+      in Strengh and Magic.
+  sp: Llave espada que proporciona un buen
+
+      equilibro entre fuerza y magia.
+  fr: Keyblade qui vous procure un bonus
+
+      équilibré de Force et de Magie.
+  gr: Ein Schlüsselschwert mit ausgeglichenen
+
+      Attacke- und Magiewerten.
+  it: Keyblade dal potere magico e di attacco
+
+      bilanciati.
+- id: 0x3E42
+  en: Ends of the Earth
+  sp: Postrimería
+  fr: Terres condamnées
+  gr: Hinter dem Horizont
+  it: Geoflagello
+- id: 0x3E43
+  en: A well-balanced Keyblade that provides an extra
+
+      boost to all your stats.
+  sp: Llave espada con sobresalientes cualidades en todos
+
+      los aspectos.
+  fr: Keyblade bien équilibrée qui augmente grandement
+
+      toutes vos statistiques.
+  gr: Ein sehr ausgeglichenes Schlüsselschwert mit
+
+      allgemein hohen Werten.
+  it: Keyblade equilibrato e con tutti i parametri alti.
+- id: 0x3E3A
+  en: Earthshaker
+  sp: Teluria
+  fr: Trembleterre
+  gr: Erderschütterer
+  it: Scuotiterra
+- id: 0x3E3B
+  en: The Keyblade you started out with. What it lacks
+
+      in reach it makes up for with a slight boost in
+
+      Strength.
+  sp: De corto alcance pero con gran potencia de impacto,
+
+      es ideal para principiantes.
+  fr: Keyblade avec laquelle vous avez commencé. Afin de
+
+      compenser sa fainle portée, elle vous procure un
+
+      léger bonus de Force.
+  gr: Dein erstes Schlüsselschwert. Es hat eine geringe
+
+      Reichweite, aber einen relativ hohen Attackewert.
+  it: Keyblade iniziale, poco potente, ma dall'ampio
+
+      raggio d'attacco.
+- id: 0x3DFA
+  en: Destiny´s Embrace
+  sp: Abrazo del destino
+  fr: Appel du destin
+  gr: Schicksalswink
+  it: Fatalità
+- id: 0x3DFB
+  en: A Keyblade that makes it easier to land critical
+
+      hits.
+  sp: La probabilidad de asestar golpes letales con esta
+
+      llave espada es muy alta.
+  fr: Keyblade qui permet d'asséner des coups critiques
+
+      plus facilement.
+  gr: Dieses Schlüsselschwert ermöglicht kritische
+
+      Treffer häufiger.
+  it: Keyblade che sferra spesso attacchi critici.
+- id: 0x3E48
+  en: Darkgnaw
+  sp: Mella sombría
+  fr: Morsure obscure
+  gr: Schattenlefzen
+  it: Divoratenebre
+- id: 0x3E49
+  en: A Keyblade that makes up for its poor reach and low
+
+      critical hit rate by providing an extra boost in
+
+      Strength.
+  sp: De corto alcance, esta llave espada sacrifica la
+
+      probabilidad de asestar golpes letales por una
+
+      notable fuerza de impacto.
+  fr: Keyblade qui compense sa faible portée et sa
+
+      capacité limitée à asséner des coups critiques
+
+      en vous procurant un bonus de Force important.
+  gr: Ein Schlüsselschwert mit geringer Reichweite, das
+
+      nur selten kritische Treffer ermöglicht, aber
+
+      einen hohen attackewert hat.
+  it: Keyblade molto potente, ma che raramente sferra
+
+      attacchi critici. Ha un raggio d'attacco limitato.
+- id: 0x3E3C
+  en: Chaos Ripper
+  sp: Caótica
+  fr: Fau du chaos
+  gr: Chaosbringer
+  it: Pandemonio
+- id: 0x3E3D
+  en: A Keyblade with long reach that does little for
+
+      your Magic, but provides an outstanding boost
+
+      in Strength.
+  sp: De largo alcance y extraordinario poder de ataque,
+
+      esta llave espada solo adolece en el aspecto
+
+      mágico.
+  fr: Keyblade à longue portée qui n'agit pas beaucoup
+
+      sur votre Magie, mais vous procure un bonus de
+
+      Force incroyable.
+  gr: Ein Schlüsselschwert mit hoher Reichweite und
+
+      außergewöhnlich hohem Attacke-, aber niedrigem
+
+      Magiewert.
+  it: Keyblade dal potere indescrivibile. Il potere
+
+      magico è scarso, ma il raggio d'attacco è ampio.
+- id: 0x3E46
+  en: Brightcrest
+  sp: Fulgor impasible
+  fr: Armoiries
+  gr: Lichtwappen
+  it: Emblema di luce
+- id: 0x3E47
+  en: A Keyblade with long reach that provides an outsta-
+
+      nding boost in Magic. It also makes it easier to land
+
+      critical hits, and deals higher damage when you do.
+  sp: Llave espada de largo alcance y extraordinario
+
+      poder mágico. Permite golpes letales aún más
+
+      poderosos de lo normal.
+  fr: Keyblade à longue portée qui vous procure un bonus
+
+      de Magie incroyable et inflige des dégâts dévasta-
+
+      teurs si vous assénez un coup critique avec.
+  gr: Ein Schlüsselschwert mit hoher Reichweite und auß-
+
+      ergewöhnlich hohem Magiewert. Es ermöglicht
+
+      häufiger kritische Treffer mit hohem Schaden.
+  it: Keyblade dal raggio d'attacco ampio e dall'inde-
+
+      scrivibile potere magico. Sferra colpi critici.
